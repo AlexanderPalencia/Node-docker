@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_cloud",
+  "version": "1.0.0",
+  "description": "NodeJS container for cloud computing course",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ositos 2.0",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mysql": "^2.15.0"
+  }
+}
